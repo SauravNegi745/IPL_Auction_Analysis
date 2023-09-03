@@ -4,7 +4,7 @@ Project Name: IPL Auction Insights Analyzer
 Introduction:
 This project, the Auction Insights Analyzer, is designed to provide valuable insights into player auctions and team performance during the auction process. By utilizing Python functions and popular libraries such as Pandas, NumPy, Matplotlib, and Seaborn, this tool allows you to gain a deeper understanding of the auction dynamics.
 Auctions play a crucial role in various fields, including sports, where teams bid for players to strengthen their rosters. This project aims to help you analyse:
-•	Which players were successfully sold and which remained unsold.
+•	Which players were successfully sold and which remained unsold.<br>
 •	The performance of each team during the auction.
 •	Key trends and strategies employed during the auction.
 Whether you're a sports enthusiast, a team manager, or someone interested in auction dynamics, this tool can provide valuable insights to inform decision-making.

@@ -1,15 +1,15 @@
 # IPL_Auction_Analysis
 Project Name: IPL Auction Insights Analyzer
 
-Introduction:
+<p>Introduction:<br>
 This project, the Auction Insights Analyzer, is designed to provide valuable insights into player auctions and team performance during the auction process. By utilizing Python functions and popular libraries such as Pandas, NumPy, Matplotlib, and Seaborn, this tool allows you to gain a deeper understanding of the auction dynamics.
 Auctions play a crucial role in various fields, including sports, where teams bid for players to strengthen their rosters. This project aims to help you analyse:<br>
 •	Which players were successfully sold and which remained unsold.<br>
-•	The performance of each team during the auction.
-•	Key trends and strategies employed during the auction.
-Whether you're a sports enthusiast, a team manager, or someone interested in auction dynamics, this tool can provide valuable insights to inform decision-making.
+•	The performance of each team during the auction.<br>
+•	Key trends and strategies employed during the auction.<br>
+Whether you're a sports enthusiast, a team manager, or someone interested in auction dynamics, this tool can provide valuable insights to inform decision-making.<br>
 
-Analysis Highlights:
+Analysis Highlights:<br>
 Here are some highlights from the analysis:
 •	Total number of players participating in the 2022 IPL auction: 633.
 •	Types of players participating: ALL-ROUNDER (242), BOWLER (215), BATTER (112), WICKETKEEPER (64).
@@ -23,4 +23,4 @@ Features:
 •	Gain valuable insights into auction trends and team strategies.
 
 Contributing:
-Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open issues or submit pull requests. Together, we can work on this project further more
+Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open issues or submit pull requests. Together, we can work on this project further more</p>
